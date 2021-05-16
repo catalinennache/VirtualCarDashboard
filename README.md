@@ -1,2 +1,2 @@
 # VirtualCarDashboard
-![alt text](https://github.com/ennache/VirtualCarDashboard/main/screenshot.png?raw=true)
+![alt text](https://github.com/ennache/VirtualCarDashboard/blob/main/screenshot.png?raw=true)
